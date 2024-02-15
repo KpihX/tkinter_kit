@@ -4,14 +4,14 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tkinter_kit"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
     {name="KpihX", email="kapoivha@gmail.com"}
 ]
 maintainers = [
     {name="KpihX", email="kapoivha@gmail.com"}
 ]
-description = "A package with some helpful tkinter functions"
+description = "A package with some helpful tkinter functions! In this version, import tkinter_kit.func becomes simply import tkinter_kit."
 readme = "README.md"
 license = {text = "MIT License"}
 requires-python = ">=3.8"

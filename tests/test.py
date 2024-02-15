@@ -2,7 +2,7 @@
 # -*-coding:UTF-8 -*
 
 import tkinter as tk
-import tkinter_kit.func as tkk
+import tkinter_kit as tkk
 
 # We create a main window
 window = tk.Tk(className=" Test of tkinter_kit")

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*-coding:UTF-8 -*
 
-from tkinter import*
+from tkinter import *
 from tkinter.ttk import Treeview
 
 def frame_vertical_scrollbar(window:Tk, canvas:Canvas, frame):
