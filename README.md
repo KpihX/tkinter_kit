@@ -1,4 +1,4 @@
-# TKinter-Kit ⏱️
+# TKinter-Kit 📦
 
 This project aims to provide a rich set of helpful functions, to easily use the tkinter module, to have a better graphical user interface experience
 
